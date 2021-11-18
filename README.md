@@ -8,6 +8,11 @@ Note that the purpose of this project is not about the Blockchain topics, just t
 
 # How to use
 
+First of all
+```
+make deps
+```
+
 Run server
 ```
 make run-server
