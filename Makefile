@@ -6,6 +6,7 @@ deps:
 	@echo "refer https://grpc.io/docs/languages/go/quickstart/#prerequisites for gRPC and Protobuf dependencies"
 	@echo "collecting dependencies..."
 	@go mod download
+	@echo "done"
 
 test:
 	@go test -v ./pkg/hash ./internal/service
