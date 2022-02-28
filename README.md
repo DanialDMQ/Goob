@@ -1,5 +1,5 @@
 # Goob
-Goob(Go + noob) is a simple and straightforward project for noobs (newbies) in Go which covers some important aspects of a standard Go project like: [standard layout](https://github.com/golang-standards/project-layout), [configuration solution](https://github.com/spf13/viper), [testing](https://github.com/stretchr/testify) and more.
+Goob (Go + noob) is a simple and straightforward project for noobs (newbies) in Go which covers some important aspects of a standard Go project like: [standard layout](https://github.com/golang-standards/project-layout), [configuration solution](https://github.com/spf13/viper), [testing](https://github.com/stretchr/testify) and more.
 
 
 The project is a [gRPC-Protobuf](https://grpc.io/docs/what-is-grpc/introduction/) Client-Server [Command-line](https://github.com/spf13/cobra) application with the context of Blockchain, the client requests a [nonce](https://www.tutorialspoint.com/what-is-a-nonce-in-block-chain) for a sample record and the server, after performing an intensive task will respond to it.
